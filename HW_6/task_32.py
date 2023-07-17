@@ -11,3 +11,5 @@ max_num = int(input('Введите введите конец дипазона: 
 for i in range(n):
     if min_num <= one[i] <= max_num:
         print(i, end=" ")
+
+#sorry forgot about work branches
