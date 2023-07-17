@@ -12,3 +12,5 @@ for i in range(1, n + 1):
     a.append(b + (i - 1) * d)
 
 print(a)
+
+#sorry forgot about work branches
